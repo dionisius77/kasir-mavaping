@@ -1,0 +1,16 @@
+.containerModal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.containerKasir {
+    width: 100%;
+}
+
+.buttonBayar {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
